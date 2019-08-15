@@ -927,7 +927,7 @@ li.active > a {
       .our-team .team-slider-item:hover .team-slider__email, .our-team .team-slider-item:hover .team-slider__geo {
         color: #b3e7ff; }
       .our-team .team-slider-item:hover .team-slider__email:after {
-        background-image: url("../img/waves.svg"); }
+        background-image: url("../img/Waves.svg"); }
       .our-team .team-slider-item:hover .team-slider__name {
         color: #fff; }
       .our-team .team-slider-item:hover .team-slider__img {
@@ -964,7 +964,7 @@ li.active > a {
     .our-team .team-slider__email:after {
       content: '';
       background-repeat: repeat;
-      background-image: url("../img/wavesblack.svg");
+      background-image: url("../img/Wavesblack.svg");
       background-repeat: no-repeat;
       width: 30px;
       height: 10px;
@@ -1006,7 +1006,7 @@ li.active > a {
   box-shadow: 0px 0px 25px 0px rgba(0, 0, 0, 0.16); }
 
 .next {
-  background-image: url("../img/arrow-right.svg");
+  background-image: url("../img/Arrow-right.svg");
   background-repeat: no-repeat;
   background-position: center;
   position: absolute;
@@ -1017,7 +1017,7 @@ li.active > a {
   transform: translateY(-50%); }
 
 .prev {
-  background-image: url("../img/arrow-left.svg");
+  background-image: url("../img/Arrow-left.svg");
   background-repeat: no-repeat;
   background-position: center;
   position: absolute;
